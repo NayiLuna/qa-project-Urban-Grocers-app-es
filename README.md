@@ -1,5 +1,5 @@
 # Proyecto Urban Grocers 
-# Creación de un kit para el usuario o usuaria
+git# Creación de un kit para el usuario o usuaria
 - El objetivo de este proyecto es crear un kit dentro de un usuario o usuaria, no una tarjeta.
 - Necesitas tener instalados los paquetes pytest y request para ejecutar las pruebas.
 - Ejecuta todas las pruebas con el comando pytest.
